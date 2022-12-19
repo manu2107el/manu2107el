@@ -2,7 +2,7 @@
 # manu2107el
 ![](https://komarev.com/ghpvc/?username=manu2107el&color=blue) <br>
 **Hey there!** <br>
-I'm ***manu2107el*** but most human beeings call me ***manu***.
+I'm ***manu2107el*** but most human beeings call me ***manu***!
 
 ### 🌐 I speak
 <img src="https://cdn-icons-png.flaticon.com/512/555/555582.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/4060/4060233.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/8617/8617292.png" alt="drawing" width="30"/>
